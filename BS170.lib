@@ -1,0 +1,6 @@
+.MODEL BS170 NMOS (LEVEL=1 VT0=1.0 KP=20m LAMBDA=0.04)
+* BS170 N-Channel MOSFET
+* Typical parameters for enhancement mode NMOS
+* VT0 = Threshold voltage (1.0V typical)
+* KP = Transconductance parameter (20mA/V^2 typical)
+* LAMBDA = Channel length modulation (0.04 typical)
